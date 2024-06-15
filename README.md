@@ -12,3 +12,6 @@ The Geolocation Project utilizes Laravel to provide a platform for logging and r
 - Store geolocation data in a database for future analysis.
 - Display geolocation information in a user-friendly interface.
 - Support for error handling and validation of IP addresses.
+- Implemented caching to reduce the number of API requests.
+- Allow users to input IP addresses manually for geolocation lookup.
+- Display a map using the latitude and longitude information
